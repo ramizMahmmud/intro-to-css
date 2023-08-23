@@ -1,0 +1,18 @@
+.general {
+    background-color: rgb(235, 136, 152);
+    font-family: 'Times New Roman', Times, serif;
+}
+.cool-cls {
+    font-size: 24px;
+}
+
+#first-id {
+    color: blue;
+    font-size: 36px;
+}
+
+#second-id {
+    background-color: rgb(93, 206, 93);
+    font-size: 24px;
+    font-weight: bold;
+}
